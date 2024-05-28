@@ -1,0 +1,167 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "SessionTicket": "REDACTED",
+        "PlayFabId": "REDACTED",
+        "NewlyCreated": false,
+        "SettingsForUser": {
+            "NeedsAttribution": false,
+            "GatherDeviceInfo": true,
+            "GatherFocusInfo": true
+        },
+        "LastLoginTime": "2024-05-27T23:12:23.147Z",
+        "InfoResultPayload": {
+            "UserInventory": [
+                {
+                    "ItemId": "WandererBluePalette",
+                    "ItemInstanceId": "21D63D0D2CD2567",
+                    "ItemClass": "/Game/Globals/CharacterCustomization/CharacterPalettes/Palette_Character_Wanderer_Blue.Palette_Character_Wanderer_Blue",
+                    "PurchaseDate": "2019-10-13T00:00:56.8Z",
+                    "Annotation": "Client-requested item grant",
+                    "CatalogVersion": "1.0",
+                    "UnitPrice": 0,
+                    "CustomData": {
+                        "seen": "true"
+                    }
+                },
+                {
+                    "ItemId": "TundraSuit",
+                    "ItemInstanceId": "854F1B482EB9C125",
+                    "ItemClass": "/Game/Globals/CharacterCustomization/Suits/TundraSuit.TundraSuit",
+                    "PurchaseDate": "2019-10-09T20:30:20.855Z",
+                    "Annotation": "Completed SolveTundraEngine achievement.",
+                    "CatalogVersion": "1.0",
+                    "UnitPrice": 0,
+                    "CustomData": {
+                        "seen": "true"
+                    }
+                },
+                {
+                    "ItemId": "TerranSuit",
+                    "ItemInstanceId": "854F1B482EB9C125",
+                    "ItemClass": "/Game/Globals/CharacterCustomization/Suits/TerranSuit.TerranSuit",
+                    "PurchaseDate": "2019-10-09T20:30:20.855Z",
+                    "Annotation": "Completed SolveTundraEngine achievement.",
+                    "CatalogVersion": "1.0",
+                    "UnitPrice": 0,
+                    "CustomData": {
+                        "seen": "true"
+                    }
+                },
+                {
+                    "ItemId": "RiverDanceDance",
+                    "ItemInstanceId": "BAC7E0C40DD94111",
+                    "ItemClass": "/Game/Globals/CharacterCustomization/Emotes/Dance_RiverDance.Dance_RiverDance",
+                    "PurchaseDate": "2019-10-09T20:30:20.855Z",
+                    "Annotation": "Completed SolveTundraEngine achievement.",
+                    "CatalogVersion": "1.0",
+                    "UnitPrice": 0,
+                    "CustomData": {
+                        "seen": "true"
+                    }
+                },
+                {
+                    "ItemId": "TundraPalette",
+                    "ItemInstanceId": "F1581399BC959318",
+                    "ItemClass": "/Game/Globals/CharacterCustomization/CharacterPalettes/Palette_Character_Tundra.Palette_Character_Tundra",
+                    "PurchaseDate": "2019-10-09T20:30:20.855Z",
+                    "Annotation": "Completed SolveTundraEngine achievement.",
+                    "CatalogVersion": "1.0",
+                    "UnitPrice": 0,
+                    "CustomData": {
+                        "seen": "true"
+                    }
+                },
+                {
+                    "ItemId": "SunsetPalette",
+                    "ItemInstanceId": "3954B477157EEEE7",
+                    "ItemClass": "/Game/Globals/CharacterCustomization/CharacterPalettes/Palette_Character_Sunset.Palette_Character_Sunset",
+                    "PurchaseDate": "2019-06-22T01:34:24.905Z",
+                    "Annotation": "Logged in during Summer 2019 promotion",
+                    "CatalogVersion": "1.0",
+                    "UnitPrice": 0,
+                    "CustomData": {
+                        "seen": "true"
+                    }
+                },
+                {
+                    "ItemId": "SunrisePalette",
+                    "ItemInstanceId": "9A72474955FA95C2",
+                    "ItemClass": "/Game/Globals/CharacterCustomization/CharacterPalettes/Palette_Character_Sunrise.Palette_Character_Sunrise",
+                    "PurchaseDate": "2019-06-22T01:34:24.905Z",
+                    "Annotation": "Logged in during Summer 2019 promotion",
+                    "CatalogVersion": "1.0",
+                    "UnitPrice": 0,
+                    "CustomData": {
+                        "seen": "true"
+                    }
+                },
+                {
+                    "ItemId": "SunsetVisor",
+                    "ItemInstanceId": "A2466657CB03CA38",
+                    "ItemClass": "/Game/Globals/CharacterCustomization/VisorColors/Visor_Sunset.Visor_Sunset",
+                    "PurchaseDate": "2019-06-22T01:34:24.905Z",
+                    "Annotation": "Logged in during Summer 2019 promotion",
+                    "CatalogVersion": "1.0",
+                    "UnitPrice": 0,
+                    "CustomData": {
+                        "seen": "true"
+                    }
+                },
+                {
+                    "ItemId": "SunriseVisor",
+                    "ItemInstanceId": "DDEBF4103BB75235",
+                    "ItemClass": "/Game/Globals/CharacterCustomization/VisorColors/Visor_Sunrise.Visor_Sunrise",
+                    "PurchaseDate": "2019-06-22T01:34:24.905Z",
+                    "Annotation": "Logged in during Summer 2019 promotion",
+                    "CatalogVersion": "1.0",
+                    "UnitPrice": 0,
+                    "CustomData": {
+                        "seen": "true"
+                    }
+                },
+                {
+                    "ItemId": "RetroSuit",
+                    "ItemInstanceId": "4155727830319B1A",
+                    "ItemClass": "/Game/Globals/CharacterCustomization/Suits/RetroSuit.RetroSuit",
+                    "PurchaseDate": "2019-02-14T18:45:57.027Z",
+                    "Annotation": "Verified Early Access ownership on Steam.",
+                    "CatalogVersion": "1.0",
+                    "UnitPrice": 0,
+                    "CustomData": {
+                        "seen": "true"
+                    }
+                }
+            ],
+            "UserVirtualCurrency": {
+                "QB": 9999999
+            },
+            "UserVirtualCurrencyRechargeTimes": {},
+            "UserData": {
+                "astro": {
+                    "Value": "{\"customization\":{\"palette\":\"/Game/Globals/CharacterCustomization/CharacterPalettes/Palette_Character_Sunset.Palette_Character_Sunset\",\"suit\":\"/Game/Globals/CharacterCustomization/Suits/PajamaSuit.PajamaSuit\",\"visor\":\"/Game/Globals/CharacterCustomization/VisorColors/Visor_Sunset.Visor_Sunset\",\"pattern\":\"\",\"hat\":\"/Game/Globals/CharacterCustomization/Hats/NoHat.NoHat\",\"mask\":\"/Game/Globals/CharacterCustomization/Hats/NoHat.NoHat\"},\"outfits\":{},\"emotes\":[\"/Game/Globals/CharacterCustomization/Emotes/Dance_RiverDance.Dance_RiverDance\",\"/Game/Globals/CharacterCustomization/Emotes/Dance_Chicken.Dance_Chicken\",\"/Game/Globals/CharacterCustomization/Emotes/Dance_Moonwalk.Dance_Moonwalk\",\"/Game/Globals/CharacterCustomization/Emotes/Dance_RunningGuy.Dance_RunningGuy\"],\"serverListDetails\":[],\"favoriteServers\":{},\"recentServers\":{},\"achievementProgress\":{\"countProgress\":{\"ScrapX\":164},\"floatProgress\":{\"BytesGain\":100238680,\"MPTime\":194618.671875},\"collectionProgress\":{\"EveryRaw\":{\"collected\":[\"/Game/Items/ItemTypes/Minables/Compound.Compound_C\",\"/Game/Items/ItemTypes/Minables/Organic.Organic_C\",\"/Game/Items/ItemTypes/Minables/Resin.Resin_C\",\"/Game/Items/ItemTypes/Minables/Ammonium.Ammonium_C\",\"/Game/Items/ItemTypes/Minables/Laterite.Laterite_C\",\"/Game/Items/ItemTypes/Minables/Sphalerite.Sphalerite_C\",\"/Game/Items/ItemTypes/Minables/Quartz.Quartz_C\",\"/Game/Items/ItemTypes/Minables/Graphite.Graphite_C\",\"/Game/Items/ItemTypes/Minables/Clay.Clay_C\",\"/Game/Items/ItemTypes/Minables/Malachite.Malachite_C\",\"/Game/Items/ItemTypes/Minables/Wolframite.Wolframite_C\",\"/Game/Items/ItemTypes/Minables/Hematite.Hematite_C\",\"/Game/Items/ItemTypes/Minables/Titanite.Titanite_C\"]},\"EverySmelt\":{\"collected\":[\"/Game/Items/ItemTypes/Intermediates/Aluminum.Aluminum_C\",\"/Game/Items/ItemTypes/Intermediates/Glass.Glass_C\",\"/Game/Items/ItemTypes/Intermediates/Zinc.Zinc_C\",\"/Game/Items/ItemTypes/Intermediates/Copper.Copper_C\",\"/Game/Items/ItemTypes/Intermediates/Carbon.Carbon_C\",\"/Game/Items/ItemTypes/Intermediates/Ceramic.Ceramic_C\",\"/Game/Items/ItemTypes/Intermediates/Tungsten.Tungsten_C\",\"/Game/Items/ItemTypes/Intermediates/Iron.Iron_C\",\"/Game/Items/ItemTypes/Intermediates/Titanium.Titanium_C\"]},\"PlanetDance\":{\"collected\":[\"/Game/Items/ItemTypes/Intangibles/Planets/Terran.Terran_C\",\"/Game/Items/ItemTypes/Intangibles/Planets/Tundra.Tundra_C\"]},\"EverySeed\":{\"collected\":[\"/Game/Items/ItemTypes/Seeds/ItemType_Seed_Popper_01.ItemType_Seed_Popper_01_C\",\"/Game/Items/ItemTypes/Seeds/ItemType_Seed_Bouncer_Vines_01.ItemType_Seed_Bouncer_Vines_01_C\"]},\"EveryComponent\":{\"collected\":[\"/Game/Items/ItemTypes/Intermediates/Plastic.Plastic_C\",\"/Game/Items/ItemTypes/Intermediates/Fuel.Fuel_C\",\"/Game/Items/ItemTypes/Composites/Graphene.Graphene_C\",\"/Game/Items/ItemTypes/Composites/Rubber.Rubber_C\",\"/Game/Items/ItemTypes/Composites/AluminumAlloy.AluminumAlloy_C\",\"/Game/Items/ItemTypes/Composites/TungstenCarbide.TungstenCarbide_C\",\"/Game/Items/ItemTypes/Composites/TitaniumAlloy.TitaniumAlloy_C\",\"/Game/Items/ItemTypes/Composites/Diamond.Diamond_C\",\"/Game/Items/ItemTypes/Composites/Steel.Steel_C\"]},\"EveryGas\":{\"collected\":[\"/Game/Items/ItemTypes/Gases/Nitrogen.Nitrogen_C\",\"/Game/Items/ItemTypes/Gases/Hydrogen.Hydrogen_C\",\"/Game/Items/ItemTypes/Gases/Argon.Argon_C\",\"/Game/Items/ItemTypes/Gases/Helium.Helium_C\"]},\"WandererAllProbes\":{\"collected\":[\"/Game/Items/ItemTypes/WandererProbes/WandererProbe_KST.WandererProbe_KST_C\"]}}},\"itemDriveSubmissionIds\":[],\"earnedItemDrivePhysicalRewardHashes\":[],\"storeSeenItems\":[\"1100Qbits-steam\",\"IceBundle\",\"SnowGogglesMask\",\"LithiumPalette\",\"OldSchoolSuit\",\"BabyMechSuit\",\"ThingSuit\",\"MooSuit\",\"RobotSuit\",\"ScoutSuit\",\"CommanderSuit\",\"SpeedSuit\",\"LaughCryEmote\",\"BroomSweepEmote\",\"HeartGrabEmote\",\"ChildShowDance\",\"ImaginateEmote\",\"KaijuKickEmote\",\"FlagWaveEmote\",\"LunarSaluteEmote\",\"PowerUpEmote\",\"MindBlownEmote\",\"NoiseMakerEmote\",\"AirGuitarDance\",\"AirDrumDance\",\"AirBassDance\",\"AirUkuleleDance\",\"RedCardEmote\",\"FieldGoalEmote\",\"CatCleanEmote\",\"RobotDance\",\"SelfieEmote\",\"RagDollDance\",\"RockPaperScissorsEmote\",\"GunShowEmote\",\"ChestThumpEmote\",\"SillySaluteEmote\",\"SentaiEmote\",\"HeartEmote\",\"ApplaudeEmote\",\"GiddyClappingEmote\",\"HighFiveEmote\",\"PeekaBooEmote\",\"JumpScareEmote\",\"JumpingJacksEmote\",\"JumpShotEmote\",\"DabEmote\",\"PowerPoseEmote\",\"PresentEmote\",\"ChestBumpEmote\",\"FistPumpEmote\",\"FacePalmEmote\",\"FlipEmote\",\"CircuitryPalette\",\"CircuitryRedPalette\",\"DenimPalette\",\"EmissiveFungusPalette\",\"SequinsPalette\",\"HolidayLightsPalette\",\"StitchesPalette\",\"TabbyGreyPalette\",\"TabbyOrangePalette\",\"XenonPalette\",\"MetalBlackPalette\",\"ArtDeco2Palette\",\"Sequins2Palette\",\"IndustrialYellowPalette\",\"IridescentBugPalette\",\"PastelFiber01Palette\",\"PastelFiber02Palette\",\"CarbonFiberPalette\",\"TigerPalette\",\"LeopardPalette\",\"SlickScalesPalette\",\"BoltedPalette\",\"ArtDecoPalette\",\"CandyCanePalette\",\"PlaidBumblebeePalette\",\"PlaidLumberjackPalette\",\"PlaidWarmerPalette\",\"SpiderWebPalette\",\"RoyalPalette\",\"TriangleGeometricPalette\",\"TriangleChitonPalette\",\"ShellsPalette\",\"ShortcakePalette\",\"DotsPalette\",\"AngularStripesPalette\",\"TiremarksPalette\",\"OlivePalette\",\"Mech01Palette\",\"Mech02Palette\",\"TuxedoPalette\",\"AutumnPalette\",\"CandyCornPalette\",\"DarkBonePalette\",\"SafetyYellowPalette\",\"StarryNightPalette\",\"CoolerPalette\",\"ConstructionPalette\",\"SlickPalette\",\"FungusTendrilHat\",\"PropellerHat\",\"HaloHat\",\"RadioAntennaHat\",\"MechEmblemHat\",\"CrownHat\",\"HeadphoneHat\",\"MechaFinHat\",\"LandingLightsHat\",\"MechaCrownHat\",\"MechaPigtailsHat\",\"ElfHat\",\"BatEarsHat\",\"BicycleHelmetHat\",\"FootballHelmetHat\",\"LeafHat\",\"MohawkHat\",\"LonghornHat\",\"CatEarsHat\",\"RamHornHat\",\"JesterHat\",\"UmbrellaHat\",\"ExhaustHat\",\"CaptainHat\",\"CableRibbonHat\",\"BowlerHat\",\"FascinatorHat\",\"MechaTruckerHat\",\"DeerStalkerHat\",\"PirateHat\",\"EmergencyLightHat \",\"AeroFinHat\",\"SpikyHairHat\",\"AntlersHat\",\"AfroHat\",\"CapHat\",\"GraduationHat\",\"MotorcycleHat\",\"ChickenHat\",\"ConstructionHat\"],\"catalogUnlocks\":[],\"realCurrencyPurchaseItems\":{},\"hasViewedLatestFullscreenMotD\":false,\"latestTitleNewsTitle\":\"\",\"playerSegments\":[{\"aBTestParent\":\"\",\"iD\":\"238723E4D773E6A9\",\"name\":\"All But Nintendo\"},{\"aBTestParent\":\"\",\"iD\":\"144E59464C4EA504\",\"name\":\"Steam Players\"},{\"aBTestParent\":\"\",\"iD\":\"3989A8EAC366A735\",\"name\":\"6_OG_Players_D360_plus\"},{\"aBTestParent\":\"\",\"iD\":\"7C9CC874092ED6D4\",\"name\":\"All_Players\"},{\"aBTestParent\":\"\",\"iD\":\"A6D7624787B3AE23\",\"name\":\"Steam_Price_Group4\"},{\"aBTestParent\":\"\",\"iD\":\"C182FD621ADBC9EA\",\"name\":\"LTE_2021Holiday_Participation\"},{\"aBTestParent\":\"\",\"iD\":\"EBD66D3C9C1D8621\",\"name\":\"7_Non_Monetizers\"}],\"transientPlayerSegments\":[]}",
+                    "LastUpdated": "2024-05-27T20:26:20.854Z",
+                    "Permission": "Private"
+                }
+            },
+            "UserDataVersion": 14110,
+            "UserReadOnlyData": {},
+            "UserReadOnlyDataVersion": 0,
+            "CharacterInventories": []
+        },
+        "EntityToken": {
+            "EntityToken": "NHxkSGZrK3JLbmFlVUkwY2xnTGRDdHNIUk5TVkZyRDFUNjRmUXBmcTVsaE1JPXx7ImkiOiIyMDI0LTA1LTI3VDIzOjE0OjI4WiIsImlkcCI6IlN0ZWFtIiwiZSI6IjIwMjQtMDUtMjhUMjM6MTQ6MjhaIiwiZmkiOiIyMDI0LTA1LTI3VDIzOjE0OjI4WiIsInRpZCI6InVJZkxHZzVTZXhjIiwiaWRpIjoiNzY1NjExOTg4MzcwMDQ1NzMiLCJoIjoiaW50ZXJuYWwiLCJlYyI6InRpdGxlX3BsYXllcl9hY2NvdW50ITREMEJCMzFEQTE2MzcyQTgvNUVBMS9BMUYxNjU3QjZERDhGQjhFLzI2NzMzQzg3NzFBM0JBM0IvIiwiZWkiOiIyNjczM0M4NzcxQTNCQTNCIiwiZXQiOiJ0aXRsZV9wbGF5ZXJfYWNjb3VudCJ9",
+            "TokenExpiration": "2024-05-28T23:14:28Z",
+            "Entity": {
+                "Id": "26733C8771A3BA3B",
+                "Type": "title_player_account",
+                "TypeString": "title_player_account"
+            }
+        },
+        "TreatmentAssignment": {
+            "Variants": [],
+            "Variables": []
+        }
+    }
+}
