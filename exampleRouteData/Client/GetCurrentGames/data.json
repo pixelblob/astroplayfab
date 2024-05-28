@@ -1,0 +1,35 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "Games": [
+            {
+                "Region": "USEast",
+                "LobbyID": "5614547338558805570",
+                "BuildVersion": "8",
+                "GameMode": "CoopStandard",
+                "PlayerUserIds": [],
+                "RunTime": 65,
+                "GameServerState": 0,
+                "GameServerStateEnum": "Open",
+                "Tags": {
+                    "maxPlayers": "69",
+                    "numPlayers": "0",
+                    "isFull": "false",
+                    "gameId": "165.255.55.170:7777",
+                    "gameBuild": "1.30.12.0",
+                    "serverName": "{\"customdata\": {\"ServerName\": \"Astroneer Dedicated Server\", \"ServerType\": \"AstroLauncherEXE v1.8.4.0\", \"ServerPaks\": []}}",
+                    "category": "Preferred",
+                    "publicSigningKey": "469600F4F698F6587A5B858F7D74366E85F4E8954B674DDDD5F380935C92502A3CBACA5152B964BB93920E5088972E77E6B056E33A2015E1B17FC835208AC3680E0CE66B251F61158459EC13D1557D7303D5A427167F90D0BBBE663EB0BE27EEB01637D2EE4B9F5E196B1D08AFE1E3C191906175298C8723A485BAEFDEE34FCE4EE5387875E30F8CD61ED15E1E0D524FA1FF4A3CD3E0F74F885BF9E0F90DA3A66945F78B69A4BD111E8F867679A30258DA6F74C70BFF942E41403C129D0B546DDBC49838B98DF3F8F62087FD6BE51DD879A2886EAD0A48D27FEC002200C586BEC96C92A22F573BE5D9A100C1E84DF6E4EAB46A5090779E5631627FE83DD29CD0",
+                    "requiresPassword": "false"
+                },
+                "LastHeartbeat": "2024-05-27T23:24:53.021Z",
+                "ServerHostname": "165.255.55.170",
+                "ServerIPV4Address": "165.255.55.170",
+                "ServerPort": 7777
+            }
+        ],
+        "PlayerCount": 0,
+        "GameCount": 1
+    }
+}
