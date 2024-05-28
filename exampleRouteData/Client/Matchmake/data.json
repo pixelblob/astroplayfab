@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "LobbyID": "5614547338558805570",
+        "ServerHostname": "165.255.55.170",
+        "ServerIPV4Address": "165.255.55.170",
+        "ServerPort": 7777,
+        "Ticket": "A1F1657B6DD8FB8E-4D0BB31DA16372A8-26733C8771A3BA3B-5EA1-8DC7EC6D406E1A4-4Gf5ib6QDJrG9gFEcMFtZuUz5EwxbQQOxk+k9O7QWxQ=",
+        "Expires": "2024-05-28T03:34:40.5612964Z",
+        "Status": "Complete"
+    }
+}
